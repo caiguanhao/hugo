@@ -22,8 +22,8 @@ import (
 
 	"github.com/kardianos/osext"
 	"github.com/spf13/cobra"
-	"github.com/spf13/hugo/helpers"
-	"github.com/spf13/hugo/hugolib"
+	"github.com/caiguanhao/hugo/helpers"
+	"github.com/caiguanhao/hugo/hugolib"
 )
 
 var versionCmd = &cobra.Command{
